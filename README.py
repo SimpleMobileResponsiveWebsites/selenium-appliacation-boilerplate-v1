@@ -34,3 +34,18 @@ Error handling and success messages
 To run this application, you'll need to:
 
 Install required packages:
+
+    # bash 
+    # pip install streamlit selenium webdriver_manager
+
+    # bash 
+    # Run the application:
+    # streamlit run app.py
+
+This boilerplate can be extended with additional features like:
+
+Custom wait conditions
+Screenshot capture
+Test case generation
+Action recording and playback
+Multiple browser support
